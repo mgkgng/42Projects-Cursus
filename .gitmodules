@@ -1,3 +1,9 @@
 [submodule "00-libasm"]
-	path = 00-libasm
+	path = Assembly
 	url = git@github.com:mgkgng/42Projects-libasm.git
+[submodule "A.I."]
+	path = A.I.
+	url = git@github.com:mgkgng/42Projects-A.I..git
+[submodule "Math"]
+	path = Math
+	url = git@github.com:mgkgng/42Projects-Math.git
